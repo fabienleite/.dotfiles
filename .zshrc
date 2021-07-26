@@ -31,6 +31,7 @@ alias glr="git pull --rebase"
 alias ll='ls -alF'
 alias la='ls -Al'
 alias l='ls -CF'
+alias gco="git checkout"
 
 # UTILS (Z, FZF)
 source $ZPATH/z.sh
